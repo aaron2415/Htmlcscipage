@@ -3,37 +3,37 @@ body {
 }
 
 h1 {
-    color: navy;
+    color: #000000;
     margin-left: 20px;
     font-family: "Times New Roman", Times, serif;
 }
 h2 {
-    color: navy;
+    color: #000000;
     margin-left: 20px;
     font-family: "Times New Roman", Times, serif;
 }
 h3 {
-    color: navy;
+    color: #000000;
     margin-left: 20px;
     font-family: "Times New Roman", Times, serif;
 }
 h4 {
-    color: navy;
+    color: #000000;
     margin-left: 20px;
     font-family: "Times New Roman", Times, serif;
 }
 h5 {
-    color: navy;
+    color: #000000;
     margin-left: 20px;
     font-family: "Times New Roman", Times, serif;
 }
 h6 {
-    color: navy;
+    color: #000000;
     margin-left: 20px;
     font-family: "Times New Roman", Times, serif;
 }
 p {
-    color: navy;
+    color: #000000;
     margin-left: 20px;
     font-family: "Times New Roman", Times, serif;
    
@@ -46,15 +46,15 @@ ul {
     background-color: #454545;
 }
 td {    
-    color: navy;   
+    color: #000000;   
     
 }
 th {    
-    color: navy;      
+    color: #000000;      
 
 }
 Table {     
-       color:navy;
+       color: #000000;
 }    
 
 a:visited {    
