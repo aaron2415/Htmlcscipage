@@ -38,11 +38,12 @@ p {
     font-family: "Times New Roman", Times, serif;
    
 }
-ul {    
-    color: red;    
-    margin-left: 20px;    
-    font-family: "Times New Roman", Times, serif;  
-
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
 }
 td {    
     color: navy;   
@@ -72,7 +73,17 @@ a:active {
 }       
 
 
+li {
+    float: left;
+}
 
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
 
 
 
