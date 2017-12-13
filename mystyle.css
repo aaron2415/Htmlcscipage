@@ -43,7 +43,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: maroon;
+    background-color: #42f4a4;
 }
 td {    
     color: navy;   
@@ -58,12 +58,12 @@ Table {
 }    
 
 a:visited {    
-            color: red;
+            color: #42f4a4;
 }
 
 /* selected link */
 a:active {    
-          color: navy;
+          color: #42f4a4;
 }       
 
 
