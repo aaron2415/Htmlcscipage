@@ -57,14 +57,8 @@ Table {
        color:navy;
 }    
 
-/* visited link */
 a:visited {    
-            color: grey;
-}
-
-/* mouse over link */
-a:hover {
-         color: maroon;
+            color: red;
 }
 
 /* selected link */
