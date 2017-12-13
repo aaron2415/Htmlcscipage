@@ -63,7 +63,7 @@ a:visited {
 
 /* selected link */
 a:active {    
-          color: blue;
+          color: red;
 }       
 
 
