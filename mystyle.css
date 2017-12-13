@@ -39,7 +39,7 @@ p {
    
 }
 ul {    
-    color: pink;    
+    color: red;    
     margin-left: 20px;    
     font-family: "Times New Roman", Times, serif;  
 
@@ -52,6 +52,9 @@ th {   
     color: navy;      
 
 }
+Table {     
+       color:navy;
+}    
 
 /* visited link */
 a:visited {    color: grey;}
