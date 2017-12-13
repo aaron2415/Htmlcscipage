@@ -64,11 +64,7 @@ a:hover {    color: maroon;}
 
 /* selected link */
 a:active {    color: blue;
-    
-p.one {     
-       border-style: solid;     
-       border-width: 5px;
-}   
+       
 
 
 
